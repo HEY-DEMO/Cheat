@@ -70,7 +70,7 @@ Handy is an open-source, privacy-first, offline speech-to-text (STT) dictation a
 
 ## 🔗 Related Topics
 
-- [Handy Repository Documentation](../../github_repos/handy.md) — Upstream GitHub repository and build guides.
+- [Handy Repository Documentation](../../github_repos/media-productivity/handy.md) — Upstream GitHub repository and build guides.
 - [Meetily](./meetily.md) — Local meeting transcription and minutes summarization.
 
 ---

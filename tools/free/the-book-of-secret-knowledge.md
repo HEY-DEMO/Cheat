@@ -143,7 +143,7 @@ python3 -m http.server 8000
 
 ## 🔗 Related Resources
 
-- **Full Upstream Handbook**: [github_repos/the-book-of-secret-knowledge.md](../../github_repos/the-book-of-secret-knowledge.md)
+- **Full Upstream Handbook**: [github_repos/the-book-of-secret-knowledge.md](../../github_repos/developer-tools/the-book-of-secret-knowledge.md)
 - **GitHub Repository**: [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - **Related Guides**: [DevOps Docker Guide](../../devops/docker.md) · [OWASP Top 10](../../security/owasp-top-10.md)
 

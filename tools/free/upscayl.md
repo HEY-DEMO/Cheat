@@ -74,7 +74,7 @@ upscayl-ncnn -i ./raw-images -o ./upscaled-images -m models/ -n ultrasharp -s 4
 ## 🔗 Related Topics
 
 - [Cap](./cap.md) — Open-source screen recording tool.
-- [Upscayl Repository Documentation](../../github_repos/upscayl.md) — Full upstream GitHub repository and build instructions.
+- [Upscayl Repository Documentation](../../github_repos/media-productivity/upscayl.md) — Full upstream GitHub repository and build instructions.
 
 ---
 

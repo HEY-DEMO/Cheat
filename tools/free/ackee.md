@@ -90,7 +90,7 @@ volumes:
 
 ## 🔗 Related Topics
 
-- [Ackee Repository Documentation](../../github_repos/ackee.md) — Upstream GitHub repository and architecture.
+- [Ackee Repository Documentation](../../github_repos/developer-tools/ackee.md) — Upstream GitHub repository and architecture.
 - [Docker DevOps Guide](../../devops/docker.md) — Containerization best practices.
 
 ---

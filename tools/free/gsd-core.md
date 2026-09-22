@@ -114,7 +114,7 @@ Orchestrator (Lean Context + STATE.md)
 ## 🔗 Related Resources
 
 - **Upstream Repository**: [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core)
-- **Local Documentation**: [github_repos/gsd-core.md](../../github_repos/gsd-core.md)
+- **Local Documentation**: [github_repos/gsd-core.md](../../github_repos/ai-agents-skills/gsd-core.md)
 - **npm Package**: [`@opengsd/gsd-core`](https://www.npmjs.com/package/@opengsd/gsd-core)
 - **Related Tools**: [Ponytail](ponytail.md) · [Agent Skills](agent-skills.md) · [Graphify](graphify.md)
 

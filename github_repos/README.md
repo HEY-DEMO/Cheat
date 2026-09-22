@@ -1,11 +1,11 @@
 <div align="center">
 
-# 📦 GitHub Repositories
+# 📦 GitHub Repositories Hub
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](../LICENSE)
-[![Category](https://img.shields.io/badge/Category-GitHub_Repos-blueviolet.svg)](#-table-of-contents)
+[![Category](https://img.shields.io/badge/Category-GitHub_Repos-blueviolet.svg)](#-categories)
 
-**Curated collection of noteworthy open-source GitHub repositories with full documentation, architectural notes, and upstream links.**
+**Curated collection of 32 noteworthy open-source GitHub repositories organized into specialized domain categories.**
 
 [Free Tools](../tools/free/README.md) · [Root Index](../README.md)
 
@@ -14,46 +14,75 @@
 ---
 
 > [!NOTE]  
-> Every repository entry in this directory includes key concepts, command breakdowns, installation instructions, worked examples, and direct links to upstream repositories.
+> Every repository entry in this collection includes key concepts, command breakdowns, installation instructions, worked examples, and direct links to upstream repositories.
 
 ---
 
-## 📋 Table of Contents
+## 🗂️ Categories
 
-| #  | Repository | GitHub Link | Description | Local Reference |
-|----|-----------|-------------|-------------|-----------------|
-| 1  | **Graft** | [trailhq/Graft](https://github.com/trailhq/Graft) | Open-source context layer for large codebases — turbocharges coding agents | [graft.md](graft.md) |
-| 2  | **codebase-memory-mcp** | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | Ultra-fast code intelligence engine & persistent knowledge graph for AI coding agents | [codebase-memory-mcp.md](codebase-memory-mcp.md) |
-| 3  | **agency-agents** | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Complete AI agency of 230+ specialized agents with distinct personas, processes, and deliverables | [agency-agents.md](agency-agents.md) |
-| 4  | **hyperresearch** | [jordan-gibbs/hyperresearch](https://github.com/jordan-gibbs/hyperresearch) | Deep research harness for Claude Code with a tier-adaptive 16-step pipeline and persistent vault | [hyperresearch.md](hyperresearch.md) |
-| 5  | **Cap** | [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | Open-source Loom alternative for beautiful, shareable screen recordings | [cap.md](cap.md) |
-| 6  | **Upscayl** | [upscayl/upscayl](https://github.com/upscayl/upscayl) | Free and open-source AI image upscaler powered by deep learning models | [upscayl.md](upscayl.md) |
-| 7  | **Penpot** | [penpot/penpot](https://github.com/penpot/penpot) | Open-source design and prototyping platform built on web standards (SVG, CSS Grid) | [penpot.md](penpot.md) |
-| 8  | **Excalidraw** | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | Virtual collaborative whiteboard with a hand-drawn sketch style and diagrams-as-code | [excalidraw.md](excalidraw.md) |
-| 9  | **Harper** | [automattic/harper](https://github.com/automattic/harper) | Blazing-fast, privacy-first offline grammar & spell checker written in Rust | [harper.md](harper.md) |
-| 10 | **CrewAI** | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | Production-ready multi-agent orchestration framework for autonomous AI teams | [crewai.md](crewai.md) |
-| 11 | **Kokoro** | [hexgrad/kokoro](https://github.com/hexgrad/kokoro) | Ultra-lightweight (82M param) open-weight text-to-speech model (Apache-2.0) | [kokoro.md](kokoro.md) |
-| 12 | **Handy** | [cjpais/Handy](https://github.com/cjpais/Handy) | Offline, privacy-first speech-to-text dictation application built on Whisper & Tauri | [handy.md](handy.md) |
-| 13 | **Meetily** | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 100% local, bot-free AI meeting transcription & summarization assistant | [meetily.md](meetily.md) |
-| 14 | **Open Notebook** | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | Open-source, self-hosted NotebookLM alternative with multi-LLM support | [open-notebook.md](open-notebook.md) |
-| 15 | **Fish Speech** | [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | Multilingual zero-shot voice cloning and dual-AR TTS engine (80+ languages) | [fish-speech.md](fish-speech.md) |
-| 16 | **Ackee** | [electerious/Ackee](https://github.com/electerious/Ackee) | Self-hosted, Node.js-based analytics tool for privacy-conscious website owners | [ackee.md](ackee.md) |
-| 17 | **Kan.bn** | [kanbn/kan](https://github.com/kanbn/kan) | Modern, open-source Trello alternative for visual workflow and kanban project management | [kanbn.md](kanbn.md) |
-| 18 | **Ponytail** | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | AI coding agent skill cutting code volume and eliminating over-engineering | [ponytail.md](ponytail.md) |
-| 19 | **OmniRoute** | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Open-source multi-provider AI gateway with token compression & auto-fallback | [omniroute.md](omniroute.md) |
-| 20 | **Graphify** | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Multimodal knowledge graph generator skill for Claude Code | [graphify.md](graphify.md) |
-| 21 | **Agent Skills** | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Production engineering skills and lifecycle commands for 70+ AI coding agents | [agent-skills.md](agent-skills.md) |
-| 22 | **Coding Interview University** | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | Complete multi-month computer science study plan to become a software engineer | [coding-interview-university.md](coding-interview-university.md) |
-| 23 | **System Design Primer** | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Comprehensive guide on how to design large-scale systems & interview prep | [system-design-primer.md](system-design-primer.md) |
-| 24 | **Project-Based Learning** | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project tutorials to build complete applications from scratch | [project-based-learning.md](project-based-learning.md) |
-| 25 | **The Book of Secret Knowledge** | [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | Inspiring collection of CLI tools, manuals, cheatsheets, one-liners & security | [the-book-of-secret-knowledge.md](the-book-of-secret-knowledge.md) |
-| 26 | **JavaScript Algorithms** | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | Algorithms and data structures implemented in JavaScript with explanations | [javascript-algorithms.md](javascript-algorithms.md) |
-| 27 | **GSD Core** | [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core) | Meta-prompting, context engineering, and spec-driven development system for agents | [gsd-core.md](gsd-core.md) |
-| 28 | **Ralph** | [snarktank/ralph](https://github.com/snarktank/ralph) | Autonomous AI agent loop executing PRD user stories with clean-context iterations | [ralph.md](ralph.md) |
-| 29 | **Bun** | [oven-sh/bun](https://github.com/oven-sh/bun) | All-in-one JavaScript runtime, bundler, package manager, and test runner | [bun.md](bun.md) |
-| 30 | **Vercel** | [vercel/vercel](https://github.com/vercel/vercel) | Official CLI for Vercel, enabling instant preview deployments and local development | [vercel.md](vercel.md) |
-| 31 | **Matt Pocock's Skills** | [mattpocock/skills](https://github.com/mattpocock/skills) | Portable, high-discipline engineering workflows and skills for AI coding agents | [mattpocock-skills.md](mattpocock-skills.md) |
-| 32 | **Superpowers** | [obra/superpowers](https://github.com/obra/superpowers) | Agentic skills framework & software development methodology for coding agents | [superpowers.md](superpowers.md) |
+| # | Category | Description | Count | Path |
+|---|---|---|---|---|
+| 1 | **🤖 AI Agents & Skills** | AI coding agents, skill frameworks, memory systems, and autonomous agent loops. | `12 repos` | [ai-agents-skills/](ai-agents-skills/README.md) |
+| 2 | **🛠️ Developer Tools & Infrastructure** | Developer utilities, runtimes, analytics, gateways, and CLI suites. | `7 repos` | [developer-tools/](developer-tools/README.md) |
+| 3 | **📚 Learning & Computer Science** | Computer science study plans, algorithm collections, system design primers, and project tutorials. | `4 repos` | [learning-resources/](learning-resources/README.md) |
+| 4 | **🎨 Media & Productivity** | Audio tools, speech-to-text/TTS, design platforms, image upscaling, and self-hosted notebooks. | `9 repos` | [media-productivity/](media-productivity/README.md) |
+
+---
+
+## 📋 Comprehensive Repository Index
+
+### 🤖 AI Agents & Skills
+
+| # | Repository | GitHub Link | Description | Local Reference |
+|---|-----------|-------------|-------------|-----------------|
+| 1 | **agency-agents** | [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) | Complete AI agency of 230+ specialized agents with distinct personas | [agency-agents](ai-agents-skills/agency-agents.md) |
+| 2 | **agent-skills** | [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) | Production engineering skills and lifecycle commands for 70+ AI coding agents | [agent-skills](ai-agents-skills/agent-skills.md) |
+| 3 | **codebase-memory-mcp** | [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) | Ultra-fast code intelligence engine & persistent knowledge graph for AI coding agents | [codebase-memory-mcp](ai-agents-skills/codebase-memory-mcp.md) |
+| 4 | **CrewAI** | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | Production-ready multi-agent orchestration framework for autonomous AI teams | [CrewAI](ai-agents-skills/crewai.md) |
+| 5 | **Graft** | [trailhq/Graft](https://github.com/trailhq/Graft) | Open-source context layer for large codebases — turbocharges coding agents | [Graft](ai-agents-skills/graft.md) |
+| 6 | **Graphify** | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | Multimodal knowledge graph generator skill for Claude Code | [Graphify](ai-agents-skills/graphify.md) |
+| 7 | **GSD Core** | [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core) | Meta-prompting, context engineering, and spec-driven development system | [GSD Core](ai-agents-skills/gsd-core.md) |
+| 8 | **hyperresearch** | [jordan-gibbs/hyperresearch](https://github.com/jordan-gibbs/hyperresearch) | Deep research harness for Claude Code with a tier-adaptive 16-step pipeline | [hyperresearch](ai-agents-skills/hyperresearch.md) |
+| 9 | **Matt Pocock's Skills** | [mattpocock/skills](https://github.com/mattpocock/skills) | Portable, high-discipline engineering workflows and skills for AI coding agents | [Matt Pocock's Skills](ai-agents-skills/mattpocock-skills.md) |
+| 10 | **Ponytail** | [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) | AI coding agent skill cutting code volume and eliminating over-engineering | [Ponytail](ai-agents-skills/ponytail.md) |
+| 11 | **Ralph** | [snarktank/ralph](https://github.com/snarktank/ralph) | Autonomous AI agent loop executing PRD user stories with clean-context iterations | [Ralph](ai-agents-skills/ralph.md) |
+| 12 | **Superpowers** | [obra/superpowers](https://github.com/obra/superpowers) | Agentic skills framework & software development methodology for coding agents | [Superpowers](ai-agents-skills/superpowers.md) |
+
+### 🛠️ Developer Tools & Infrastructure
+
+| # | Repository | GitHub Link | Description | Local Reference |
+|---|-----------|-------------|-------------|-----------------|
+| 1 | **Ackee** | [electerious/Ackee](https://github.com/electerious/Ackee) | Self-hosted, Node.js-based analytics tool for privacy-conscious website owners | [Ackee](developer-tools/ackee.md) |
+| 2 | **Bun** | [oven-sh/bun](https://github.com/oven-sh/bun) | All-in-one JavaScript runtime, bundler, package manager, and test runner | [Bun](developer-tools/bun.md) |
+| 3 | **Harper** | [automattic/harper](https://github.com/automattic/harper) | Blazing-fast, privacy-first offline grammar & spell checker written in Rust | [Harper](developer-tools/harper.md) |
+| 4 | **Kan.bn** | [kanbn/kan](https://github.com/kanbn/kan) | Modern, open-source Trello alternative for visual workflow and kanban management | [Kan.bn](developer-tools/kanbn.md) |
+| 5 | **OmniRoute** | [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) | Open-source multi-provider AI gateway with token compression & auto-fallback | [OmniRoute](developer-tools/omniroute.md) |
+| 6 | **The Book of Secret Knowledge** | [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) | Inspiring collection of CLI tools, manuals, cheatsheets, one-liners & security | [The Book of Secret Knowledge](developer-tools/the-book-of-secret-knowledge.md) |
+| 7 | **Vercel** | [vercel/vercel](https://github.com/vercel/vercel) | Official CLI for Vercel, enabling instant preview deployments and local development | [Vercel](developer-tools/vercel.md) |
+
+### 📚 Learning & Computer Science
+
+| # | Repository | GitHub Link | Description | Local Reference |
+|---|-----------|-------------|-------------|-----------------|
+| 1 | **Coding Interview University** | [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) | Complete multi-month computer science study plan to become a software engineer | [Coding Interview University](learning-resources/coding-interview-university.md) |
+| 2 | **JavaScript Algorithms** | [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms) | Algorithms and data structures implemented in JavaScript with explanations | [JavaScript Algorithms](learning-resources/javascript-algorithms.md) |
+| 3 | **Project-Based Learning** | [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) | Curated list of project tutorials to build complete applications from scratch | [Project-Based Learning](learning-resources/project-based-learning.md) |
+| 4 | **System Design Primer** | [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) | Comprehensive guide on how to design large-scale systems & interview prep | [System Design Primer](learning-resources/system-design-primer.md) |
+
+### 🎨 Media & Productivity
+
+| # | Repository | GitHub Link | Description | Local Reference |
+|---|-----------|-------------|-------------|-----------------|
+| 1 | **Cap** | [CapSoftware/Cap](https://github.com/CapSoftware/Cap) | Open-source Loom alternative for beautiful, shareable screen recordings | [Cap](media-productivity/cap.md) |
+| 2 | **Excalidraw** | [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) | Virtual collaborative whiteboard with a hand-drawn sketch style and diagrams-as-code | [Excalidraw](media-productivity/excalidraw.md) |
+| 3 | **Fish Speech** | [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) | Multilingual zero-shot voice cloning and dual-AR TTS engine (80+ languages) | [Fish Speech](media-productivity/fish-speech.md) |
+| 4 | **Handy** | [cjpais/Handy](https://github.com/cjpais/Handy) | Offline, privacy-first speech-to-text dictation application built on Whisper & Tauri | [Handy](media-productivity/handy.md) |
+| 5 | **Kokoro** | [hexgrad/kokoro](https://github.com/hexgrad/kokoro) | Ultra-lightweight (82M param) open-weight text-to-speech model (Apache-2.0) | [Kokoro](media-productivity/kokoro.md) |
+| 6 | **Meetily** | [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) | 100% local, bot-free AI meeting transcription & summarization assistant | [Meetily](media-productivity/meetily.md) |
+| 7 | **Open Notebook** | [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook) | Open-source, self-hosted NotebookLM alternative with multi-LLM support | [Open Notebook](media-productivity/open-notebook.md) |
+| 8 | **Penpot** | [penpot/penpot](https://github.com/penpot/penpot) | Open-source design and prototyping platform built on web standards (SVG, CSS Grid) | [Penpot](media-productivity/penpot.md) |
+| 9 | **Upscayl** | [upscayl/upscayl](https://github.com/upscayl/upscayl) | Free and open-source AI image upscaler powered by deep learning models | [Upscayl](media-productivity/upscayl.md) |
+
 
 ---
 

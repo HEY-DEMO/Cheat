@@ -73,7 +73,7 @@ prompt = "[excited] I have incredible news to share with the team today! [whispe
 
 ## 🔗 Related Topics
 
-- [Fish Speech Repository Documentation](../../github_repos/fish-speech.md) — Upstream GitHub repository.
+- [Fish Speech Repository Documentation](../../github_repos/media-productivity/fish-speech.md) — Upstream GitHub repository.
 - [Kokoro TTS](./kokoro-tts.md) — Ultra-lightweight (82M) open-source TTS.
 
 ---

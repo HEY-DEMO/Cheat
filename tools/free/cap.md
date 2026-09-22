@@ -60,7 +60,7 @@ Cap is an open-source, lightweight alternative to Loom for recording and sharing
 
 ## 🔗 Related Topics
 
-- [Cap Repository Documentation](../../github_repos/cap.md) — Full upstream GitHub repository and architecture.
+- [Cap Repository Documentation](../../github_repos/media-productivity/cap.md) — Full upstream GitHub repository and architecture.
 - [Upscayl](./upscayl.md) — Open-source AI image upscaler.
 
 ---

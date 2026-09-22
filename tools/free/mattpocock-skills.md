@@ -77,7 +77,7 @@ agy plugin install https://github.com/mattpocock/skills.git
 
 ## 🔗 Related Topics
 
-- [Matt Pocock's Skills Repository Documentation](../../github_repos/mattpocock-skills.md) — Upstream GitHub repository.
+- [Matt Pocock's Skills Repository Documentation](../../github_repos/ai-agents-skills/mattpocock-skills.md) — Upstream GitHub repository.
 - [Agent Skills](./agent-skills.md) — Production-grade SDLC engineering skills.
 - [Superpowers](./superpowers.md) — Agentic development methodology framework.
 

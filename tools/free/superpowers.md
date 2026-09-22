@@ -68,7 +68,7 @@ agy plugin install https://github.com/obra/superpowers.git
 
 ## 🔗 Related Topics
 
-- [Superpowers Repository Documentation](../../github_repos/superpowers.md) — Upstream GitHub repository.
+- [Superpowers Repository Documentation](../../github_repos/ai-agents-skills/superpowers.md) — Upstream GitHub repository.
 - [Matt Pocock's Skills](./mattpocock-skills.md) — High-discipline engineering workflows.
 - [Agent Skills](./agent-skills.md) — Production-grade SDLC engineering skills.
 

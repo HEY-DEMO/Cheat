@@ -68,7 +68,7 @@ Open your browser at `http://localhost:3000`.
 
 ## 🔗 Related Topics
 
-- [Kan.bn Repository Documentation](../../github_repos/kanbn.md) — Upstream GitHub repository.
+- [Kan.bn Repository Documentation](../../github_repos/developer-tools/kanbn.md) — Upstream GitHub repository.
 - [Penpot](./penpot.md) — Open-source design and prototyping platform.
 
 ---

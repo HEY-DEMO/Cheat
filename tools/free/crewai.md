@@ -101,7 +101,7 @@ print(result)
 
 ## 🔗 Related Topics
 
-- [CrewAI Repository Documentation](../../github_repos/crewai.md) — Upstream GitHub repository.
+- [CrewAI Repository Documentation](../../github_repos/ai-agents-skills/crewai.md) — Upstream GitHub repository.
 - [Python Coding Standards](../../coding-standards/naming-conventions.md) — Python best practices.
 
 ---

@@ -81,7 +81,7 @@ npx skills add addyosmani/agent-skills --skill interview-me
 
 ## 🔗 Related Topics
 
-- [Agent Skills Repository Documentation](../../github_repos/agent-skills.md) — Upstream GitHub repository.
+- [Agent Skills Repository Documentation](../../github_repos/ai-agents-skills/agent-skills.md) — Upstream GitHub repository.
 - [Ponytail](./ponytail.md) — Senior dev code minimization skill.
 
 ---

@@ -112,7 +112,7 @@ docker run -d --name excalidraw -p 8080:80 excalidraw/excalidraw:latest
 ## 🔗 Related Topics
 
 - [Penpot](./penpot.md) — Open-source UI/UX design and prototyping platform.
-- [Excalidraw Repository Documentation](../../github_repos/excalidraw.md) — Full upstream GitHub repository and architecture.
+- [Excalidraw Repository Documentation](../../github_repos/media-productivity/excalidraw.md) — Full upstream GitHub repository and architecture.
 
 ---
 

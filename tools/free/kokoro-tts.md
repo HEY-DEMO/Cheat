@@ -81,7 +81,7 @@ for i, (gs, ps, audio) in enumerate(generator):
 
 ## 🔗 Related Topics
 
-- [Kokoro Repository Documentation](../../github_repos/kokoro.md) — Upstream GitHub repository.
+- [Kokoro Repository Documentation](../../github_repos/media-productivity/kokoro.md) — Upstream GitHub repository.
 - [Fish Audio](./fish-audio.md) — Zero-shot voice cloning and multilingual TTS.
 
 ---

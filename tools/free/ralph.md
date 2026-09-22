@@ -147,7 +147,7 @@ Run with Claude Code or Amp:
 ## 🔗 Related Resources
 
 - **Upstream Repository**: [snarktank/ralph](https://github.com/snarktank/ralph)
-- **Local Documentation**: [github_repos/ralph.md](../../github_repos/ralph.md)
+- **Local Documentation**: [github_repos/ralph.md](../../github_repos/ai-agents-skills/ralph.md)
 - **Interactive Flowchart**: [snarktank.github.io/ralph](https://snarktank.github.io/ralph/)
 - **Related Tools**: [GSD Core](gsd-core.md) · [Agent Skills](agent-skills.md) · [Ponytail](ponytail.md)
 

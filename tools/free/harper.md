@@ -90,7 +90,7 @@ Install the official **Harper** extension from the Visual Studio Marketplace. It
 
 ## 🔗 Related Topics
 
-- [Harper Repository Documentation](../../github_repos/harper.md) — Full upstream GitHub repository and architecture.
+- [Harper Repository Documentation](../../github_repos/developer-tools/harper.md) — Full upstream GitHub repository and architecture.
 - [VS Code](./vscode.md) — Free extensible code editor.
 
 ---

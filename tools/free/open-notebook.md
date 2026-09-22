@@ -86,7 +86,7 @@ Navigate to `http://localhost:8080` in your web browser.
 
 ## 🔗 Related Topics
 
-- [Open Notebook Repository Documentation](../../github_repos/open-notebook.md) — Upstream GitHub repository.
+- [Open Notebook Repository Documentation](../../github_repos/media-productivity/open-notebook.md) — Upstream GitHub repository.
 - [Meetily](./meetily.md) — Local meeting transcription.
 
 ---

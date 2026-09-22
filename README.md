@@ -199,38 +199,46 @@ python scripts/validate-index.py
 │   └── unit-testing.md
 └── github_repos/
     ├── README.md
-    ├── ackee.md
-    ├── agency-agents.md
-    ├── agent-skills.md
-    ├── bun.md
-    ├── cap.md
-    ├── codebase-memory-mcp.md
-    ├── coding-interview-university.md
-    ├── crewai.md
-    ├── excalidraw.md
-    ├── fish-speech.md
-    ├── graft.md
-    ├── graphify.md
-    ├── gsd-core.md
-    ├── handy.md
-    ├── harper.md
-    ├── hyperresearch.md
-    ├── javascript-algorithms.md
-    ├── kanbn.md
-    ├── kokoro.md
-    ├── mattpocock-skills.md
-    ├── meetily.md
-    ├── omniroute.md
-    ├── open-notebook.md
-    ├── penpot.md
-    ├── ponytail.md
-    ├── project-based-learning.md
-    ├── ralph.md
-    ├── superpowers.md
-    ├── system-design-primer.md
-    ├── the-book-of-secret-knowledge.md
-    ├── upscayl.md
-    └── vercel.md
+    ├── ai-agents-skills/
+    │   ├── README.md
+    │   ├── agency-agents.md
+    │   ├── agent-skills.md
+    │   ├── codebase-memory-mcp.md
+    │   ├── crewai.md
+    │   ├── graft.md
+    │   ├── graphify.md
+    │   ├── gsd-core.md
+    │   ├── hyperresearch.md
+    │   ├── mattpocock-skills.md
+    │   ├── ponytail.md
+    │   ├── ralph.md
+    │   └── superpowers.md
+    ├── developer-tools/
+    │   ├── README.md
+    │   ├── ackee.md
+    │   ├── bun.md
+    │   ├── harper.md
+    │   ├── kanbn.md
+    │   ├── omniroute.md
+    │   ├── the-book-of-secret-knowledge.md
+    │   └── vercel.md
+    ├── learning-resources/
+    │   ├── README.md
+    │   ├── coding-interview-university.md
+    │   ├── javascript-algorithms.md
+    │   ├── project-based-learning.md
+    │   └── system-design-primer.md
+    └── media-productivity/
+        ├── README.md
+        ├── cap.md
+        ├── excalidraw.md
+        ├── fish-speech.md
+        ├── handy.md
+        ├── kokoro.md
+        ├── meetily.md
+        ├── open-notebook.md
+        ├── penpot.md
+        └── upscayl.md
 ```
 
 ---

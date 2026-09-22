@@ -65,7 +65,7 @@ Meetily is a 100% local, open-source AI meeting assistant that records, transcri
 
 ## 🔗 Related Topics
 
-- [Meetily Repository Documentation](../../github_repos/meetily.md) — Upstream GitHub repository.
+- [Meetily Repository Documentation](../../github_repos/media-productivity/meetily.md) — Upstream GitHub repository.
 - [Handy](./handy.md) — Global speech-to-text dictation.
 - [Open Notebook](./open-notebook.md) — Local AI research and document synthesis.
 

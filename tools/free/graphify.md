@@ -81,8 +81,8 @@ graphify-out/
 
 ## 🔗 Related Topics
 
-- [Graphify Repository Documentation](../../github_repos/graphify.md) — Upstream GitHub repository.
-- [codebase-memory-mcp](../../github_repos/codebase-memory-mcp.md) — Persistent code intelligence engine.
+- [Graphify Repository Documentation](../../github_repos/ai-agents-skills/graphify.md) — Upstream GitHub repository.
+- [codebase-memory-mcp](../../github_repos/ai-agents-skills/codebase-memory-mcp.md) — Persistent code intelligence engine.
 
 ---
 

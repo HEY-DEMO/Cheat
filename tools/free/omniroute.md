@@ -77,7 +77,7 @@ Set Base URL to `http://localhost:3000/v1` and choose your preferred fallback mo
 
 ## 🔗 Related Topics
 
-- [OmniRoute Repository Documentation](../../github_repos/omniroute.md) — Upstream GitHub repository.
+- [OmniRoute Repository Documentation](../../github_repos/developer-tools/omniroute.md) — Upstream GitHub repository.
 - [Ponytail](./ponytail.md) — AI coding agent code minimization skill.
 
 ---

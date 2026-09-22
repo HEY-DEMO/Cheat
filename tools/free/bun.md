@@ -142,7 +142,7 @@ await Bun.write("output.txt", "Fast file writing powered by Bun");
 ## 🔗 Related Resources
 
 - **Official Website**: [bun.sh](https://bun.sh/)
-- **Upstream Repository**: [github_repos/bun.md](../../github_repos/bun.md)
+- **Upstream Repository**: [github_repos/bun.md](../../github_repos/developer-tools/bun.md)
 - **Official Documentation**: [bun.sh/docs](https://bun.sh/docs)
 
 ---

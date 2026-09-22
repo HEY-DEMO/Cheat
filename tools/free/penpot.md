@@ -81,7 +81,7 @@ Access the web interface at `http://localhost:9001`.
 ## 🔗 Related Topics
 
 - [Excalidraw](./excalidraw.md) — Sketch-style collaborative whiteboard.
-- [Penpot Repository Documentation](../../github_repos/penpot.md) — Full upstream GitHub repository.
+- [Penpot Repository Documentation](../../github_repos/media-productivity/penpot.md) — Full upstream GitHub repository.
 
 ---
 

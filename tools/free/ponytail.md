@@ -71,7 +71,7 @@ Add to your `~/.claude/CLAUDE.md` or `.claude/CLAUDE.md`:
 
 ## 🔗 Related Topics
 
-- [Ponytail Repository Documentation](../../github_repos/ponytail.md) — Upstream GitHub repository and benchmark logs.
+- [Ponytail Repository Documentation](../../github_repos/ai-agents-skills/ponytail.md) — Upstream GitHub repository and benchmark logs.
 - [Agent Skills](./agent-skills.md) — Production-grade engineering lifecycle skills.
 
 ---
