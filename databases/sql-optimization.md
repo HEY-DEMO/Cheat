@@ -1,4 +1,4 @@
-<![CDATA[# SQL Optimization
+# SQL Optimization
 
 > **Category**: `databases` · **Last Updated**: `2026-09-21` · **Difficulty**: `Intermediate`
 
@@ -23,4 +23,4 @@ Slow queries are usually caused by missing indexes, SELECT *, or N+1 patterns. U
 ---
 
 *← Back to [Databases](./README.md) · [Root Index](../README.md)*
-]]>
+

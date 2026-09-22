@@ -1,4 +1,4 @@
-<![CDATA[# 🗄️ Databases
+# 🗄️ Databases
 
 > SQL, NoSQL, query optimization, schema design, and migration strategies.
 
@@ -13,4 +13,4 @@
 ---
 
 *← Back to [Root Index](../README.md)*
-]]>
+

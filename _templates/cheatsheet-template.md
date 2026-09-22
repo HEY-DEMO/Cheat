@@ -1,4 +1,4 @@
-<![CDATA[# 📝 Cheat Sheet Template
+# 📝 Cheat Sheet Template
 
 <!--
   INSTRUCTIONS:
@@ -117,4 +117,4 @@ graph LR
 ---
 
 *← Back to [Category README](./README.md) · [Root Index](../README.md)*
-]]>
+

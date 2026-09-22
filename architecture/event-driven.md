@@ -1,4 +1,4 @@
-<![CDATA[# Event-Driven Architecture
+# Event-Driven Architecture
 
 > **Category**: `architecture` · **Last Updated**: `2026-09-21` · **Difficulty**: `Advanced`
 
@@ -26,4 +26,4 @@ Event-Driven Architecture (EDA) uses events as the primary mechanism for communi
 ---
 
 *← Back to [Architecture](./README.md) · [Root Index](../README.md)*
-]]>
+

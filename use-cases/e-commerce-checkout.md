@@ -1,4 +1,4 @@
-<![CDATA[# E-Commerce Checkout Flow
+# E-Commerce Checkout Flow
 
 > **Category**: `use-cases` · **Last Updated**: `2026-09-21` · **Difficulty**: `Advanced`
 
@@ -32,4 +32,4 @@ sequenceDiagram
 ---
 
 *← Back to [Use Cases](./README.md) · [Root Index](../README.md)*
-]]>
+

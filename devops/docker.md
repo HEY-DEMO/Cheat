@@ -1,4 +1,4 @@
-<![CDATA[# Docker
+# Docker
 
 > **Category**: `devops` · **Last Updated**: `2026-09-21` · **Difficulty**: `Intermediate`
 
@@ -24,4 +24,4 @@ Docker packages applications into lightweight, portable containers that run cons
 ---
 
 *← Back to [DevOps](./README.md) · [Root Index](../README.md)*
-]]>
+

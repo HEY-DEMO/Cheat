@@ -1,6 +1,20 @@
-# 📦 GitHub Repos
+<div align="center">
 
-> Curated collection of noteworthy open-source GitHub repositories with full documentation and upstream links.
+# 📦 GitHub Repositories
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](../LICENSE)
+[![Category](https://img.shields.io/badge/Category-GitHub_Repos-blueviolet.svg)](#-table-of-contents)
+
+**Curated collection of noteworthy open-source GitHub repositories with full documentation, architectural notes, and upstream links.**
+
+[Free Tools](../tools/free/README.md) · [Root Index](../README.md)
+
+</div>
+
+---
+
+> [!NOTE]  
+> Every repository entry in this directory includes key concepts, command breakdowns, installation instructions, worked examples, and direct links to upstream repositories.
 
 ---
 

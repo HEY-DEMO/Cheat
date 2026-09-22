@@ -1,4 +1,4 @@
-<![CDATA[# Unit Testing
+# Unit Testing
 
 > **Category**: `testing` · **Last Updated**: `2026-09-21` · **Difficulty**: `Beginner`
 
@@ -43,4 +43,4 @@ def test_add_negative_numbers():
 ---
 
 *← Back to [Testing](./README.md) · [Root Index](../README.md)*
-]]>
+

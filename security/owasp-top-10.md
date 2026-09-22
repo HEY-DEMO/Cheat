@@ -1,4 +1,4 @@
-<![CDATA[# OWASP Top 10
+# OWASP Top 10
 
 > **Category**: `security` · **Last Updated**: `2026-09-21` · **Difficulty**: `Intermediate`
 
@@ -34,4 +34,4 @@ The OWASP Top 10 is the industry-standard list of the most critical web applicat
 ---
 
 *← Back to [Security](./README.md) · [Root Index](../README.md)*
-]]>
+

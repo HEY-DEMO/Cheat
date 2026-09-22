@@ -1,4 +1,4 @@
-<![CDATA[# ⚡ Algorithms
+# ⚡ Algorithms
 
 > Sorting, searching, dynamic programming, graph algorithms, and complexity analysis.
 
@@ -13,4 +13,4 @@
 ---
 
 *← Back to [Root Index](../README.md)*
-]]>
+

@@ -1,4 +1,4 @@
-<![CDATA[# Hash Maps
+# Hash Maps
 
 > **Category**: `data-structures` · **Last Updated**: `2026-09-21` · **Difficulty**: `Beginner`
 
@@ -22,4 +22,4 @@ Hash maps provide O(1) average-case key-value lookups using a hash function to m
 ---
 
 *← Back to [Data Structures](./README.md) · [Root Index](../README.md)*
-]]>
+

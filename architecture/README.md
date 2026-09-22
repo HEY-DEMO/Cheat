@@ -1,4 +1,4 @@
-<![CDATA[# 🏗️ Architecture
+# 🏗️ Architecture
 
 > System design principles, architectural patterns, and scalability strategies.
 
@@ -14,4 +14,4 @@
 ---
 
 *← Back to [Root Index](../README.md)*
-]]>
+

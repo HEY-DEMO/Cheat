@@ -1,4 +1,4 @@
-<![CDATA[# Microservices Architecture
+# Microservices Architecture
 
 > **Category**: `architecture` · **Last Updated**: `2026-09-21` · **Difficulty**: `Advanced`
 
@@ -42,4 +42,4 @@ graph TB
 ---
 
 *← Back to [Architecture](./README.md) · [Root Index](../README.md)*
-]]>
+

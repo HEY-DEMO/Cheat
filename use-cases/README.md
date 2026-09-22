@@ -1,4 +1,4 @@
-<![CDATA[# 🌍 Use Cases
+# 🌍 Use Cases
 
 > Real-world implementation walkthroughs and end-to-end project examples.
 
@@ -13,4 +13,4 @@
 ---
 
 *← Back to [Root Index](../README.md)*
-]]>
+

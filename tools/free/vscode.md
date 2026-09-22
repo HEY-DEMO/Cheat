@@ -1,4 +1,4 @@
-<![CDATA[# VS Code
+# VS Code
 
 > **Category**: `tools/free` · **Last Updated**: `2026-09-21` · **Difficulty**: `Beginner`
 
@@ -29,4 +29,4 @@ Visual Studio Code is a free, open-source code editor by Microsoft with rich ext
 ---
 
 *← Back to [Free Tools](./README.md) · [Root Index](../../README.md)*
-]]>
+

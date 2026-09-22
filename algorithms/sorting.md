@@ -1,4 +1,4 @@
-<![CDATA[# Sorting Algorithms
+# Sorting Algorithms
 
 > **Category**: `algorithms` · **Last Updated**: `2026-09-21` · **Difficulty**: `Intermediate`
 
@@ -23,4 +23,4 @@ Choose your sorting algorithm based on data size, structure, and stability requi
 ---
 
 *← Back to [Algorithms](./README.md) · [Root Index](../README.md)*
-]]>
+

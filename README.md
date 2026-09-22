@@ -1,4 +1,4 @@
-<![CDATA[<!-- markdownlint-disable MD033 MD041 -->
+<!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
 
 # 🧠 Developer Knowledge Hub & Cheat Sheet
@@ -248,4 +248,4 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 Built with ❤️ by the developer community.
 
 </div>
-]]>
+

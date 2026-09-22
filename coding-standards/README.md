@@ -1,4 +1,4 @@
-<![CDATA[# 📏 Coding Standards
+# 📏 Coding Standards
 
 > Style guides, naming conventions, and formatting rules for consistent codebases.
 
@@ -13,4 +13,4 @@
 ---
 
 *← Back to [Root Index](../README.md)*
-]]>
+

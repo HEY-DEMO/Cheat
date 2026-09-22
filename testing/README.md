@@ -1,4 +1,4 @@
-<![CDATA[# 🧪 Testing
+# 🧪 Testing
 
 > Unit, integration, E2E, TDD, property-based testing, and test architecture.
 
@@ -13,4 +13,4 @@
 ---
 
 *← Back to [Root Index](../README.md)*
-]]>
+

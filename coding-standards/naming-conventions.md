@@ -1,4 +1,4 @@
-<![CDATA[# Naming Conventions
+# Naming Conventions
 
 > **Category**: `coding-standards` · **Last Updated**: `2026-09-21` · **Difficulty**: `Beginner`
 
@@ -23,4 +23,4 @@ Consistent naming improves readability and reduces cognitive load. Pick a conven
 ---
 
 *← Back to [Coding Standards](./README.md) · [Root Index](../README.md)*
-]]>
+

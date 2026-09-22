@@ -1,4 +1,4 @@
-<![CDATA[# ✅ Best Practices
+# ✅ Best Practices
 
 > Proven approaches for writing clean, maintainable, and collaborative code.
 
@@ -14,4 +14,4 @@
 ---
 
 *← Back to [Root Index](../README.md)*
-]]>
+

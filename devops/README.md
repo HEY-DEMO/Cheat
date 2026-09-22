@@ -1,4 +1,4 @@
-<![CDATA[# 🚀 DevOps & CI/CD
+# 🚀 DevOps & CI/CD
 
 > Pipelines, containers, infrastructure as code, and deployment strategies.
 
@@ -13,4 +13,4 @@
 ---
 
 *← Back to [Root Index](../README.md)*
-]]>
+

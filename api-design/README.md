@@ -1,4 +1,4 @@
-<![CDATA[# 🌐 API Design
+# 🌐 API Design
 
 > REST, GraphQL, gRPC, versioning, error handling, and documentation standards.
 
@@ -13,4 +13,4 @@
 ---
 
 *← Back to [Root Index](../README.md)*
-]]>
+

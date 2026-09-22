@@ -1,4 +1,4 @@
-<![CDATA[# REST Best Practices
+# REST Best Practices
 
 > **Category**: `api-design` · **Last Updated**: `2026-09-21` · **Difficulty**: `Intermediate`
 
@@ -24,4 +24,4 @@ Use nouns for resources, HTTP verbs for actions, consistent error formats, pagin
 ---
 
 *← Back to [API Design](./README.md) · [Root Index](../README.md)*
-]]>
+

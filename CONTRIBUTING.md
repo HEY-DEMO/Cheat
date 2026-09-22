@@ -1,4 +1,4 @@
-<![CDATA[# Contributing to Developer Knowledge Hub
+# Contributing to Developer Knowledge Hub
 
 Thank you for your interest in contributing! This guide will help you get started.
 
@@ -74,4 +74,4 @@ Be respectful, constructive, and inclusive. We follow the [Contributor Covenant]
 ---
 
 Thank you for helping build this knowledge hub! 🚀
-]]>
+

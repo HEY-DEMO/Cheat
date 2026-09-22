@@ -1,4 +1,4 @@
-<![CDATA[# Code Reviews
+# Code Reviews
 
 > **Category**: `best-practices` · **Last Updated**: `2026-09-21` · **Difficulty**: `Intermediate`
 
@@ -22,4 +22,4 @@ Code reviews catch bugs early, share knowledge, and enforce standards. Focus on 
 ---
 
 *← Back to [Best Practices](./README.md) · [Root Index](../README.md)*
-]]>
+

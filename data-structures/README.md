@@ -1,4 +1,4 @@
-<![CDATA[# 📊 Data Structures
+# 📊 Data Structures
 
 > Fundamental data structures with complexity analysis and implementation examples.
 
@@ -13,4 +13,4 @@
 ---
 
 *← Back to [Root Index](../README.md)*
-]]>
+

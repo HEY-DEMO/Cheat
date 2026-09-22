@@ -1,4 +1,4 @@
-<![CDATA[# 🔒 Security
+# 🔒 Security
 
 > Application security, OWASP guidelines, authentication, encryption, and secure coding.
 
@@ -13,4 +13,4 @@
 ---
 
 *← Back to [Root Index](../README.md)*
-]]>
+
