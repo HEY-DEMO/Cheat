@@ -190,6 +190,7 @@ python scripts/validate-index.py
 │   └── owasp-top-10.md
 ├── databases/
 │   ├── README.md
+│   ├── kuzu.md
 │   └── sql-optimization.md
 ├── api-design/
 │   ├── README.md
@@ -203,19 +204,31 @@ python scripts/validate-index.py
     │   ├── README.md
     │   ├── agency-agents.md
     │   ├── agent-skills.md
+    │   ├── chisle.md
     │   ├── codebase-memory-mcp.md
     │   ├── crewai.md
     │   ├── graft.md
     │   ├── graphify.md
     │   ├── gsd-core.md
+    │   ├── hallmark.md
     │   ├── hyperresearch.md
     │   ├── mattpocock-skills.md
     │   ├── ponytail.md
     │   ├── ralph.md
-    │   └── superpowers.md
+    │   ├── reticle.md
+    │   ├── skillspector.md
+    │   ├── superpowers.md
+    │   └── ui-skills.md
+    ├── curated-lists/
+    │   ├── README.md
+    │   ├── awesome-python.md
+    │   ├── awesome.md
+    │   ├── free-programming-books.md
+    │   └── public-apis.md
     ├── developer-tools/
     │   ├── README.md
     │   ├── ackee.md
+    │   ├── anti-slop.md
     │   ├── bun.md
     │   ├── harper.md
     │   ├── kanbn.md
@@ -224,7 +237,10 @@ python scripts/validate-index.py
     │   └── vercel.md
     ├── learning-resources/
     │   ├── README.md
+    │   ├── build-your-own-x.md
     │   ├── coding-interview-university.md
+    │   ├── developer-roadmap.md
+    │   ├── freecodecamp.md
     │   ├── javascript-algorithms.md
     │   ├── project-based-learning.md
     │   └── system-design-primer.md
