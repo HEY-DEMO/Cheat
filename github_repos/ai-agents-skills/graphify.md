@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify)
+
+---
+
 # graphify
 
 [![CI](https://github.com/safishamsi/graphify/actions/workflows/ci.yml/badge.svg?branch=v1)](https://github.com/safishamsi/graphify/actions/workflows/ci.yml)

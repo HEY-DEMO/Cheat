@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [trailhq/Graft](https://github.com/trailhq/Graft)
+
+---
+
 <div align="center">
 
 <img src="assets/graft-hero.png" alt="Graft — open-source context layer for large codebases" width="100%"/>

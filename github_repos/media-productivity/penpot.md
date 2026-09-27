@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [penpot/penpot](https://github.com/penpot/penpot)
+
+---
+
 <img width="100%" src="https://github.com/user-attachments/assets/da17b160-f289-436f-b140-972083a08602" />
 
 [uri_license]: https://www.mozilla.org/en-US/MPL/2.0

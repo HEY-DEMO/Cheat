@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [hexgrad/kokoro](https://github.com/hexgrad/kokoro)
+
+---
+
 # kokoro
 
 An inference library for [Kokoro-82M](https://huggingface.co/hexgrad/Kokoro-82M). You can [`pip install kokoro`](https://pypi.org/project/kokoro/).

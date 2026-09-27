@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [reticlehq/reticle](https://github.com/reticlehq/reticle)
+
+---
+
 # 🎯 Reticle
 
 > **Runtime test & verification engine for AI coding agents.** Your AI agent says "done." Reticle drives your real running application, inspects what actually happened, and returns pass / fail verdicts with the exact `file:line` to fix.

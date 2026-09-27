@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+
+---
+
 # List of Free Learning Resources In Many Languages
 
 <div align="center" markdown="1">

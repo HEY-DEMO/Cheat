@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [jordan-gibbs/hyperresearch](https://github.com/jordan-gibbs/hyperresearch)
+
+---
+
 <img width="1536" height="1152" alt="replicate-prediction-x0s9c24tqxrmw0d0j5ktty8nhw" src="https://github.com/user-attachments/assets/816434ad-080e-4165-abbc-af87d009aeb0" />
 
 <h3 align="center">The Most Powerful Deep Research Harness</h3>

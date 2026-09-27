@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [ibelick/ui-skills](https://github.com/ibelick/ui-skills)
+
+---
+
 # 🎨 UI Skills
 
 > **Skills for Design Engineers.** A curated registry, CLI, and Model Context Protocol (MCP) server providing opinionated frontend design constraints, micro-interactions, layout principles, and accessibility rules to AI coding agents.

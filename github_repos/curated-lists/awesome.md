@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+
+---
+
 <div align="center">
 	<img width="500" height="350" src="https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg" alt="Awesome">
 	<br>

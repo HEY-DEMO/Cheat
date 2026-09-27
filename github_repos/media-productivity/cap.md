@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [CapSoftware/Cap](https://github.com/CapSoftware/Cap)
+
+---
+
 <p align="center">
 	<img width="150" height="150" src="https://github.com/CapSoftware/Cap/blob/main/apps/desktop/src-tauri/icons/Square310x310Logo.png" alt="Cap logo">
 </p>

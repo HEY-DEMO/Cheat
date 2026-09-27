@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core)
+
+---
+
 <div align="center">
 
 # GSD Core

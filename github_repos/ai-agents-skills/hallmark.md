@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [Nutlope/hallmark](https://github.com/Nutlope/hallmark)
+
+---
+
 # 🏛️ Hallmark
 
 > **A design skill for Claude Code, Cursor, and Codex that refuses to look AI-generated.** Built by Together AI to eradicate generic aesthetic "slop" using 21 curated themes, 21 macrostructures, and 57 automated slop-test gates.

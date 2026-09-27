@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)
+
+---
+
 # Agent Skills
 
 **Production-grade engineering skills for AI coding agents.**

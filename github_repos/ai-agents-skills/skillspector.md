@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [nvidia/skillspector](https://github.com/nvidia/skillspector)
+
+---
+
 # 🛡️ SkillSpector
 
 > **Security scanner for AI agent skills.** Detect vulnerabilities, malicious patterns, and security risks before installing agent skills into coding environments like Claude Code, Codex CLI, Gemini CLI, and OpenCode.

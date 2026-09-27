@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI)
+
+---
+
 <p align="center">
   <a href="https://github.com/crewAIInc/crewAI">
     <img src="https://raw.githubusercontent.com/crewAIInc/crewAI/main/docs/images/crewai_logo.png" width="600px" alt="Open source Multi-AI Agent orchestration framework">

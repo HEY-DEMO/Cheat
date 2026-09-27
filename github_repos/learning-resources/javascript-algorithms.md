@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+
+---
+
 # JavaScript Algorithms and Data Structures
 
 > 🇺🇦 UKRAINE [IS BEING ATTACKED](https://war.ukraine.ua/) BY RUSSIAN ARMY. CIVILIANS ARE GETTING KILLED. RESIDENTIAL AREAS ARE GETTING BOMBED.

@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+
+---
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DietrichGebert/ponytail/main/assets/logo-dark.png">

@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp)
+
+---
+
 # codebase-memory-mcp
 
 [![GitHub Release](https://img.shields.io/github/v/release/DeusData/codebase-memory-mcp?style=flat&color=blue)](https://github.com/DeusData/codebase-memory-mcp/releases/latest)

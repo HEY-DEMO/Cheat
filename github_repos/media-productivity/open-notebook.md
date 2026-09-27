@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [lfnovo/open-notebook](https://github.com/lfnovo/open-notebook)
+
+---
+
 <a id="readme-top"></a>
 
 <!-- [![Contributors][contributors-shield]][contributors-url] -->

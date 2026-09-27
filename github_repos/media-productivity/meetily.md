@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily)
+
+---
+
 <div align="center" style="border-bottom: none">
     <h1>
         <img src="https://raw.githubusercontent.com/Zackriya-Solutions/meetily/main/docs/Meetily-6.png" style="border-radius: 10px;" />

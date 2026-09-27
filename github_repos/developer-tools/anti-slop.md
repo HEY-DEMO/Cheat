@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [dmmulroy/anti-slop](https://github.com/dmmulroy/anti-slop)
+
+---
+
 # 🧹 anti-slop
 
 > **Opinionated Oxlint rules against low-evidence TypeScript and JavaScript patterns.** Designed to be vendored directly into codebases to eliminate artificial types, unnecessary spreads, fragile runtime assertions, and redundant iterations.

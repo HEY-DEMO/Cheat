@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech)
+
+---
+
 <div align="center">
 <h1>Fish Speech</h1>
 

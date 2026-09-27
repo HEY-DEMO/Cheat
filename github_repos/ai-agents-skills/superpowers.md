@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [obra/superpowers](https://github.com/obra/superpowers)
+
+---
+
 # Superpowers
 
 [![GitHub Stars](https://img.shields.io/github/stars/obra/superpowers?style=flat-square&color=111111&label=stars)](https://github.com/obra/superpowers)

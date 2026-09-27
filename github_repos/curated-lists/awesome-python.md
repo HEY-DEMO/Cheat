@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [vinta/awesome-python](https://github.com/vinta/awesome-python)
+
+---
+
 # [Awesome Python](https://awesome-python.com/)
 
 An opinionated guide to the best Python frameworks, libraries, and tools.

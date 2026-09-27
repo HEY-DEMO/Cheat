@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [JayPokale/Chisle](https://github.com/JayPokale/Chisle)
+
+---
+
 # 🪓 Chisle
 
 > **Context and output token compressor for AI coding agents.** Your AI talks less, builds less, reads less, and delivers more — cutting token usage down to 44% of a bare model while eliminating fluff and unrequested boilerplate.

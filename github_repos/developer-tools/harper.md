@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [automattic/harper](https://github.com/automattic/harper)
+
+---
+
 <div id="header" align="center">
     <img src="https://raw.githubusercontent.com/automattic/harper/master/logo.svg" width="400px" />
     <h1>Harper</h1>

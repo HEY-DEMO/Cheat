@@ -1,3 +1,7 @@
+> 🔗 **GitHub Repository**: [upscayl/upscayl](https://github.com/upscayl/upscayl)
+
+---
+
 <div align="center">
 
   # v2.15 is out! 🥳 [Download Now ⬇️](https://github.com/upscayl/upscayl/releases/latest)
