@@ -37,7 +37,7 @@ graph TB
 ## 🔗 Related Topics
 
 - [Event-Driven Architecture](event-driven.md)
-- [Docker](../devops/docker.md)
+- [Backend Architecture](backend-architecture.md)
 
 ---
 

@@ -47,6 +47,7 @@
 | 23 | **Bun** | All-in-one JavaScript runtime, bundler, package manager & test runner | [bun.md](bun.md) |
 | 24 | **Matt Pocock's Skills** | Portable, high-discipline engineering workflows for AI agents | [mattpocock-skills.md](mattpocock-skills.md) |
 | 25 | **Superpowers** | Complete agentic development methodology & skills framework | [superpowers.md](superpowers.md) |
+| 26 | **Interactive Debugging** | Practice finding and fixing bugs across Python, JS & React (BugHunt, Python Tutor, Buglyst, Bug Dojo) | [interactive-debugging.md](interactive-debugging.md) |
 
 ---
 

@@ -6,9 +6,10 @@
 
 ## 📋 Table of Contents
 
-| #  | Topic          | Description                                     | Path                                     |
-|----|---------------|-------------------------------------------------|------------------------------------------|
-| 1  | Unit Testing   | Writing effective, isolated unit tests          | [unit-testing.md](unit-testing.md)       |
+| #  | Topic                  | Description                                              | Path                                     |
+|----|------------------------|----------------------------------------------------------|------------------------------------------|
+| 1  | Unit Testing           | Writing effective, isolated unit tests                   | [unit-testing.md](unit-testing.md)       |
+| 2  | Interactive Debugging  | Hands-on websites to practice finding and fixing bugs    | [interactive-debugging.md](interactive-debugging.md) |
 
 ---
 
