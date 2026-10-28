@@ -221,6 +221,7 @@ python scripts/validate-index.py
     │   ├── codebase-memory-mcp.md
     │   ├── crewai.md
     │   ├── diagram-design.md
+    │   ├── elephant-goldfish-model.md
     │   ├── everything-claude-code.md
     │   ├── graft.md
     │   ├── graphify.md
@@ -235,6 +236,7 @@ python scripts/validate-index.py
     │   ├── ralph.md
     │   ├── rea.md
     │   ├── reticle.md
+    │   ├── ruflo.md
     │   ├── security-audit-skill.md
     │   ├── skillspector.md
     │   ├── superpowers.md

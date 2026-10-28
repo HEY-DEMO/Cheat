@@ -52,6 +52,8 @@
 | 28 | **Last30Days Skill** | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Real-time research engine scanning public discussions from the past 30 days | [last30days-skill.md](last30days-skill.md) |
 | 29 | **REA** | [morluto/rea](https://github.com/morluto/rea) | Agentic reverse-engineering toolkit & MCP server for AI coding assistants | [rea.md](rea.md) |
 | 30 | **Cloudflare Security Audit** | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | Adversarial multi-agent security auditing and vulnerability verification skill | [security-audit-skill.md](security-audit-skill.md) |
+| 31 | **Ruflo** | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | Enterprise multi-agent orchestration harness, swarms, adaptive memory & console for Claude Code | [ruflo.md](ruflo.md) |
+| 32 | **Elephant-Goldfish Model** | [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) | Spec-driven, design-first development framework & zero-context review skills for AI agents | [elephant-goldfish-model.md](elephant-goldfish-model.md) |
 
 ---
 

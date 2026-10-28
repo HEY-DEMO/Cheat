@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](../LICENSE)
 [![Category](https://img.shields.io/badge/Category-GitHub_Repos-blueviolet.svg)](#-categories)
 
-**Curated collection of 63 noteworthy open-source GitHub repositories organized into specialized domain categories.**
+**Curated collection of 65 noteworthy open-source GitHub repositories organized into specialized domain categories.**
 
 [Free Tools](../tools/free/README.md) · [Root Index](../README.md)
 
@@ -22,7 +22,7 @@
 
 | # | Category | Description | Count | Path |
 |---|---|---|---|---|
-| 1 | **🤖 AI Agents & Skills** | AI coding agents, skill frameworks, memory systems, and autonomous agent loops. | `30 repos` | [ai-agents-skills/](ai-agents-skills/README.md) |
+| 1 | **🤖 AI Agents & Skills** | AI coding agents, skill frameworks, memory systems, and autonomous agent loops. | `32 repos` | [ai-agents-skills/](ai-agents-skills/README.md) |
 | 2 | **🛠️ Developer Tools & Infrastructure** | Developer utilities, runtimes, analytics, gateways, and CLI suites. | `13 repos` | [developer-tools/](developer-tools/README.md) |
 | 3 | **📚 Learning & Computer Science** | Computer science study plans, algorithm collections, system design primers, career roadmaps, and project tutorials. | `7 repos` | [learning-resources/](learning-resources/README.md) |
 | 4 | **🎨 Media & Productivity** | Audio tools, speech-to-text/TTS, design platforms, image upscaling, and self-hosted notebooks. | `9 repos` | [media-productivity/](media-productivity/README.md) |
@@ -66,6 +66,8 @@
 | 28 | **Last30Days Skill** | [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) | Real-time research engine scanning public discussions from the past 30 days | [Last30Days Skill](ai-agents-skills/last30days-skill.md) |
 | 29 | **REA** | [morluto/rea](https://github.com/morluto/rea) | Agentic reverse-engineering toolkit & MCP server for AI coding assistants | [REA](ai-agents-skills/rea.md) |
 | 30 | **Cloudflare Security Audit** | [cloudflare/security-audit-skill](https://github.com/cloudflare/security-audit-skill) | Adversarial multi-agent security auditing and vulnerability verification skill | [Cloudflare Security Audit](ai-agents-skills/security-audit-skill.md) |
+| 31 | **Ruflo** | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | Enterprise multi-agent orchestration harness, swarms, adaptive memory & console for Claude Code | [Ruflo](ai-agents-skills/ruflo.md) |
+| 32 | **Elephant-Goldfish Model** | [google/elephant-goldfish-model](https://github.com/google/elephant-goldfish-model) | Spec-driven, design-first development framework & zero-context review skills for AI agents | [Elephant-Goldfish Model](ai-agents-skills/elephant-goldfish-model.md) |
 
 ### 🛠️ Developer Tools & Infrastructure
 
